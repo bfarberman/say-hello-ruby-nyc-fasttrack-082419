@@ -1,5 +1,5 @@
-def say_hello(name)
-  return "Hello, #{name}!"
+def say_hello("Brad")
+  return "Hello #{Brad}!"
 end
 
 say_hello("Brad")
